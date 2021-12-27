@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://discord.gg/JmgehPSDD6"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <p align="center"><a href="https://www.deviantart.com/jaxoriginals"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" /></a>
-<p align="center"><a href="https://www.reddit.com/user/EnhancedJax"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<p align="center"><a href="https://www.reddit.com/user/EnhancedJax"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
 <h2 align="center"> ⭐ Latest release </h2>
 
