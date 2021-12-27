@@ -2,13 +2,15 @@
 
 <p align="center">JaxCore is a set of utilities to give you a better desktop experience. JaxCore is just the umbrella term, it consists of 2 parts: modules and the configuration hub. Modules are the things that you actually interact with, tired of finding the shortcut to something? Try Keylaunch! Want to remind yourself later to do something? Use QuickNote! Feel like you can use more functions in the start menu? Check out ValliStart! These are a few of the modules that are readily available for you to use in Core, all for free. On the other hand, the configuration hub is what you use to customize the modules to fit your needs. Customize appearance, check for updates, switch between languages and change the behavior of the modules you have, all accessible via a well-designed user interface.</p>
 
-<h2 align="center"> 🔗 Join the community </h2>
+## 🔗 Join the community
 
-<p align="center"><a href="https://discord.gg/JmgehPSDD6"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><p align="center"><a href="https://www.deviantart.com/jaxoriginals"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a><p align="center"><a href="https://www.reddit.com/user/EnhancedJax"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a></p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JmgehPSDD6)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EnhancedJax)
 
-<h2 align="center"> ⭐ Latest release </h2>
+## ⭐ Latest release
 
-<p align="center"><strong>IdleStyle - Stylized Screensaver</strong> - get it on <a href="https://www.deviantart.com/jaxoriginals/art/899004964">DeviantArt</a></p>
+**IdleStyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)
 
 ![IdleStyle2](https://user-images.githubusercontent.com/80020581/143587740-d5adaea9-bd7d-4155-8497-f4e9202ab51e.png)
 
