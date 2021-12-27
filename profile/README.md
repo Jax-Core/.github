@@ -1,13 +1,23 @@
-## Hi there 👋
+# 👋 Hello there!
+This is an organization used to store all of Jax's skins and future projects!
 
-<!--
+## 🔗 Connect with us
 
-**Here are some ideas to get you started:**
+You can find released skins in any one of the medias below!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JmgehPSDD6)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EnhancedJax)
 
+## ⭐ Latest release
+
+**IdleStyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)
+
+![IdleStyle2](https://user-images.githubusercontent.com/80020581/143587740-d5adaea9-bd7d-4155-8497-f4e9202ab51e.png)
+
+➡️ [Browse all skins](https://www.deviantart.com/jaxoriginals) - you can also browse them here.
+
+## ❤️ Support our creations
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/jaxoriginals)
+[![Ko=Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jaxoriginals)
