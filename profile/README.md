@@ -1,9 +1,7 @@
-## 👋 Hello there!
-This is an organization used to store all of Jax's skins and future projects!
+<p align="center">🌠 JaxCore</p>
 
-## 🔗 Connect with us
-
-You can find released skins and any other info in any one of the social media below!
+<p align="center">JaxCore is a set of utilities to give you a better desktop experience. JaxCore is just the umbrella term, it consists of 2 parts: modules and the configuration hub. Modules are the things that you actually interact with, tired of finding the shortcut to something? Try Keylaunch! Want to remind yourself later to do something? Use QuickNote! Feel like you can use more functions in the start menu? Check out ValliStart! These are a few of the modules that are readily available for you to use in Core, all for free. On the other hand, the configuration hub is what you use to customize the modules to fit your needs. Customize appearance, check for updates, switch between languages and change the behavior of the modules you have, all accessible via a well-designed user interface.</p>
+## 🔗 Join the community
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JmgehPSDD6)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
