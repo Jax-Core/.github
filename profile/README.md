@@ -8,9 +8,9 @@
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EnhancedJax)
 
-## ⭐ Latest release
+<h1 align="center"> ⭐ Latest release </h1>
 
-**IdleStyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)
+<p align="center">**IdleStyle - Stylized Screensaver** - get it on [DeviantArt](https://www.deviantart.com/jaxoriginals/art/899004964)</p>
 
 ![IdleStyle2](https://user-images.githubusercontent.com/80020581/143587740-d5adaea9-bd7d-4155-8497-f4e9202ab51e.png)
 
