@@ -2,10 +2,10 @@
 
 ---
 
-JaxCore is a set of utilities to give you a better desktop experience. Available free fore Windows devices.
+JaxCore is a set of utilities to give you a better desktop experience. Available free for Windows devices.
 
 Customization rich modules provide you numerous functionalities to enhance your daily workflow. 
-Full-featured configuration hub allows you to customize the modules to fit your needs. Customize appearance, check for updates, switch between languages and change the behavior of the modules you have, all accessible via a well-designed user interface.
+The full-featured configuration hub allows you to customize the modules to fit your needs. Customize appearance, check for updates, switch between languages and change the behavior of the modules you have, all accessible via a well-designed user interface.
 
 ➡️ [Browse all modules](https://www.deviantart.com/jaxoriginals)
 
