@@ -1,4 +1,4 @@
-![GitBanner](https://user-images.githubusercontent.com/80020581/148785773-c3167b20-989c-4956-b61b-8b86c1b175bc.png)
+![GithubBanner](https://user-images.githubusercontent.com/80020581/174422913-28def56c-5ce9-41a4-bd2c-9c25db159975.png)
 
 ---
 
